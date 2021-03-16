@@ -1,0 +1,2 @@
+ola sou novo
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Manny72911/Da-Hood-Hub-/main/da%20hood%20hub",true))();
